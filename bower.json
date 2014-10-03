@@ -1,9 +1,10 @@
 {
-  "name": "gaia-base",
+  "name": "base",
   "version": "0.0.0",
   "authors": [
     "Wilson Page <wilsonpage@me.com>"
   ],
+  "main": "base.css",
   "license": "MIT",
   "ignore": [
     "**/.*",
